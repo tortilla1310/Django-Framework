@@ -1,0 +1,627 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-08-08T20:54:51.553",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Текущий заказ: 1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-08-08T20:54:55.918",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "Текущий заказ: 2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-08-08T20:57:12.975",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "kirillkulakov",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-08-08T22:13:10.335",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "Текущий заказ: 2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-08-08T22:13:22.583",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "Текущий заказ: 2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-08-08T22:13:26.190",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Текущий заказ: 1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-08-08T22:13:37.349",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "Текущий заказ: 5",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0410\\u043a\\u0442\\u0438\\u0432\\u0435\\u043d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-08-12T20:38:35.014",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Стул фамильный (Офис)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-08-15T20:04:08.826",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-08-15T20:08:29.969",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-08-15T20:08:54.032",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-08-15T20:09:15.590",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-08-19T21:04:37.531",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-08-22T20:06:40.061",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Классический диван (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-08-26T20:17:32.710",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "Модерн",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is active\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-08-26T20:17:44.761",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "Модерн",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is active\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-08-26T20:20:38.596",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Чайник (Модерн)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "4807agipwdtj8w9omt2w0euwmwyec4r8",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQRO_iGln-s6Gk5wzWrr3GAeRIcVIh7k4ipYBy5r2Zt4i4LjWunec4ZnERWpx-O8L05LaD_MB2n2Sa2jKPJHdFHrTL25T5dT3cv4OKvW5rzAkUe3CKTfA5kN2SVsaCR3O2JYArQEwh0KA1YTHgrPGDZp0BjBefL9ELNxI:1oP6M9:ZxB0R6vvudvvJ39B2Gei7uERnR-m_cnM0MGkfnaGcRQ",
+      "expire_date": "2022-09-02T21:04:29.756"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "gbjcasabyd4ljlpme9w9yokt0aquhxlp",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQRO_iGln-s6Gk5wzWrr3GAeRIcVIh7k4ipYBy5r2Zt4i4LjWunec4ZnERWpx-O8L05LaD_MB2n2Sa2jKPJHdFHrTL25T5dT3cv4OKvW5rzAkUe3CKTfA5kN2SVsaCR3O2JYArQEwh0KA1YTHgrPGDZp0BjBefL9ELNxI:1oMYHo:TAdO0EAgxJjPBHTOQfj6fPiCggptiyEYGLyksNYNBx8",
+      "expire_date": "2022-08-26T20:17:28.738"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "is5v4zzdaac8g4rn8fxhowohxbk1ugfq",
+    "fields": {
+      "session_data": ".eJxVj1ELgjAUhf_Lnst0zqm9FQVCQb1Uvo3rdpeiabglUfTf05Co1-_wnXPvk9R4t2ROZmRCunLawM3mVBgLFnt6AGqS1fXxWCyL0-qS-sm2vaxNl-xzTE887CUxGOJmsBWF6hX6zzKQJdZDYBpZQCVk06IzUuN0pXPc7BbD6L-Xg8l7KYoZqkzLgCvmaeXrQGtgfuShirnvRgEPEGgELvNYDBkH6krXU5xCGGaUD6Xj7qe6AmNF1ZyL-uew79vk9Qab4lks:1oK2Vl:mb-bm6Eq5FTtQ7B0orDJiWw5YUJASKHCfNtFilyjuYs",
+      "expire_date": "2022-08-19T21:57:29.575"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "zr4p5cb4sbcchn5r4ie8ind57s5oqnar",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQRO_iGln-s6Gk5wzWrr3GAeRIcVIh7k4ipYBy5r2Zt4i4LjWunec4ZnERWpx-O8L05LaD_MB2n2Sa2jKPJHdFHrTL25T5dT3cv4OKvW5rzAkUe3CKTfA5kN2SVsaCR3O2JYArQEwh0KA1YTHgrPGDZp0BjBefL9ELNxI:1oL6AF:FlFRAQ_2DBqwSVc-PtsqhQKHtKzHvR58tlRUKcl3vmY",
+      "expire_date": "2022-08-22T20:03:39.621"
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Классика",
+      "description": "",
+      "created": "2022-08-05T20:42:39.157",
+      "updated": "2022-08-05T20:42:39.157",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Модерн",
+      "description": "",
+      "created": "2022-08-05T20:42:39.158",
+      "updated": "2022-08-26T20:41:23.703",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Дом",
+      "description": "",
+      "created": "2022-08-05T20:42:39.158",
+      "updated": "2022-08-05T20:42:39.158",
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 3,
+    "fields": {
+      "category": 3,
+      "name": "Классический диван",
+      "image": "products_images/product-3-sm.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "ыва",
+      "price": "36000.00",
+      "quantity": 10,
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 4,
+    "fields": {
+      "category": 4,
+      "name": "Стулья",
+      "image": "products_images/product-2.jpg",
+      "short_desc": "Удобный стул для всех",
+      "description": "",
+      "price": "14500.00",
+      "quantity": 11,
+      "is_active": true
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 5,
+    "fields": {
+      "category": 3,
+      "name": "Чайник",
+      "image": "products_images/product-3.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "1200.00",
+      "quantity": 7,
+      "is_active": true
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$8mJcnBLjLpZ4k1u0mIqLfg$Z2f05DjvGIsUWb6cv9sB03+2QJT03gmb5up6gY9w7Pg=",
+      "last_login": "2022-08-19T21:04:29.714",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@geekshop.ru",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-08-05T20:42:39.164",
+      "avatar": "",
+      "age": null,
+      "activation_key": "",
+      "activation_key_expires": "2022-08-07T20:42:39.090",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 2,
+    "fields": {
+      "password": "!6YXYw3bo7XWRQNtlzvWJxfOcQzaq4oSF60FowMrH",
+      "last_login": "2022-08-19T20:42:35.746",
+      "is_superuser": false,
+      "username": "kirillkulakov",
+      "first_name": "Кирилл",
+      "last_name": "Кулаков",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-08-05T20:42:56",
+      "avatar": "",
+      "age": null,
+      "activation_key": "",
+      "activation_key_expires": "2022-08-07T20:42:51",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "tagline": "",
+      "about_me": "",
+      "gender": ""
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "tagline": "",
+      "about_me": "I`am a Developer",
+      "gender": "M"
+    }
+  },
+  {
+    "model": "basketapp.basket",
+    "pk": 11,
+    "fields": {
+      "user": 2,
+      "product": 3,
+      "quantity": 3,
+      "add_datetime": "2022-08-19T20:53:16.925"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-08T20:54:51.546",
+      "updated": "2022-08-08T22:13:26.195",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "created": "2022-08-08T20:54:55.916",
+      "updated": "2022-08-08T22:13:22.590",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-08T22:07:52.296",
+      "updated": "2022-08-12T20:39:47.827",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-08T22:09:03.977",
+      "updated": "2022-08-12T20:39:45.148",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-08T22:10:54.305",
+      "updated": "2022-08-12T20:39:42.862",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 6,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-12T20:03:33.077",
+      "updated": "2022-08-12T20:39:29.199",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-12T20:39:12.174",
+      "updated": "2022-08-12T20:39:16.050",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 8,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-12T20:41:26.376",
+      "updated": "2022-08-12T21:45:48.485",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 9,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-15T20:03:51.279",
+      "updated": "2022-08-15T20:17:09.334",
+      "is_active": false,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 10,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-15T20:17:22.615",
+      "updated": "2022-08-15T20:55:03.187",
+      "is_active": true,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 11,
+    "fields": {
+      "user": 1,
+      "created": "2022-08-22T20:13:44.234",
+      "updated": "2022-08-22T20:13:44.260",
+      "is_active": true,
+      "status": "FM"
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 1,
+    "fields": {
+      "order": 4,
+      "product": 5,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 2,
+    "fields": {
+      "order": 4,
+      "product": 3,
+      "quantity": 2
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 3,
+    "fields": {
+      "order": 5,
+      "product": 5,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 4,
+    "fields": {
+      "order": 5,
+      "product": 3,
+      "quantity": 2
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 6,
+    "fields": {
+      "order": 6,
+      "product": 4,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 9,
+    "fields": {
+      "order": 9,
+      "product": 5,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 14,
+    "fields": {
+      "order": 10,
+      "product": 3,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 15,
+    "fields": {
+      "order": 10,
+      "product": 5,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 17,
+    "fields": {
+      "order": 11,
+      "product": 5,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 18,
+    "fields": {
+      "order": 11,
+      "product": 3,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "social_django.usersocialauth",
+    "pk": 1,
+    "fields": {
+      "user": 2,
+      "provider": "vk-oauth2",
+      "uid": "37551191",
+      "extra_data": "{\"auth_time\": 1660931557, \"id\": 37551191, \"expires\": 86400, \"access_token\": \"vk1.a.b-oYntJrcQhApxG0KUsOdjPnWNwrp-U95zllF4c5ahwFYRegCLwHDrEejNp2IySVrmcnQd1OUJr1-90doHEl1uSwKPhYoxBwLMjAPZmJ3865PCROQ1D8BNiAxN0z3G6ZxOyRjyRicaKTDm1jlkPvZbM-X_rTp6OJ44fYvl_4_EMeBQ5NBp0C4Zt7bAQcz-c2\", \"token_type\": null}",
+      "created": "2022-08-05T20:42:56.101",
+      "modified": "2022-08-19T20:52:37.304"
+    }
+  }
+]
